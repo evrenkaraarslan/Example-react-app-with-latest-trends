@@ -1,0 +1,19 @@
+.searchMain {
+  margin: 10px;
+  .formMain {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    .searchBar {
+      width: 220px;
+      height: 18px;
+      border-radius: 4px;
+    }
+    .inputSubmit {
+      width: 70px;
+      color: white;
+      background: black;
+      border-radius: 8px;
+    }
+  }
+}

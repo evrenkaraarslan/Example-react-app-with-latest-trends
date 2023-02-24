@@ -1,0 +1,16 @@
+.weatherAllMain {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 10px;
+  .buttonGoBack {
+    width: 200px;
+    color: white;
+    background: black;
+  }
+  .cardAll {
+    background: rgb(82, 151, 82);
+  }
+}

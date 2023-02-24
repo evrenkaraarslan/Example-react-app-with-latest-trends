@@ -1,0 +1,11 @@
+.navbarMain {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #007a91;
+  .navbarTitle {
+    color: white;
+  }
+}
