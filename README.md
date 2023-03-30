@@ -24,7 +24,7 @@ npm@8  or higher
 git@2  or higher 
 
 ### Clone this repository
-$ git clone https://github.com/evrenkaraarslan/Example-react-app-with-latest-trends
+$ git clone https://github.com/evrenkaraarslan/Example-react-app-with-latest-trends.git
 
 ### Go to directory
 $ cd Example-react-app-with-latest-trends
